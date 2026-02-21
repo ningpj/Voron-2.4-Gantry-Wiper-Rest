@@ -6,6 +6,6 @@ Voron 2.4 Gantry Wiper / Rest redesign derived from the excellent work @igannaka
   - [x] Internal voids to improve rigidity - 0.1mm 2x voids in arm & mount
   - [x] Height adjustable with replacable silicon nozzle rest (cut PTFE to length). Ali Express 3.5mm button plug : https://www.aliexpress.com/item/1005006396026960.html?spm=a2g0o.order_list.order_list_main.89.320f1802CbTUYu
 
-Gantry Wiper / Rest showing partially inserted silicon nozzle rest and PTFE carrier for reference
+Gantry Wiper / Rest showing partially inserted silicon rest and PTFE carrier for reference
 
 ![Adjustable Gantry Wipe Rest v32](https://github.com/user-attachments/assets/a6cce5f1-b275-4d3c-9967-e86f050e85e1)
